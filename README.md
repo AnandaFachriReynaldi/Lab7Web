@@ -59,4 +59,7 @@ Operator
 Kondisi IF
 ![Step9](SS/SS9.png)<br>
 
+Kondisi Switch
+![Step10](SS/SS10.png)<br>
+
 
