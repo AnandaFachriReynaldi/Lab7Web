@@ -48,4 +48,9 @@ Untuk mengaksesnya hasilnya gunakan URL:
 ```
 http://localhost/lab7_php_dasar/latihan2.php?nama=Reynaldi
 ```
-![Step6](SS/SS6.png)
+![Step6](SS/SS6.png)<br>
+
+Membuat Form Input
+![Step7](SS/SS7.png)<br>
+
+
