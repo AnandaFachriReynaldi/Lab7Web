@@ -8,7 +8,7 @@
 Karena menggunakan XAMPP Portable setelah download lalu Extract file tersebut, pindahkan direktorinya (misal: d:\xampp)
 ![Step1](SS/SS1.png)
 
-Buka XAMPP Control Lalu Klik `Start` untuk menjalankan Web Server. Setelah itu uji coba melalui URL :
+Buka XAMPP Control Lalu Klik `Start` untuk menjalankan Web Server. Setelah itu uji coba gunakan URL :
 ```
 http://localhost
 ```
@@ -16,14 +16,14 @@ http://localhost
 
 <b>PHP Dasar</b>
 
-Membuat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs). Setelah itu uji coba melalui URL :
+Membuat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs). Setelah itu uji coba gunakan URL :
 ```
 http://localhost/lab7_php_dasar/
 ```
 ![Step3](SS/SS3.png)
 
 Membuat file baru dengan nama php_dasar.php <br>
-untuk mengakses hasilnya melalui URL : 
+untuk mengakses hasilnya gunakan URL : 
 ```
 http://localhost/lab7_php_dasar/php_dasar.php
 ```
@@ -42,3 +42,10 @@ Menambahkan variable berikut :
     ?>
 ```
 ![Step5](SS/SS5.png)
+
+Membuat Predefine Variable $_GET<br>
+Untuk mengaksesnya hasilnya gunakan URL: 
+```
+http://localhost/lab7_php_dasar/latihan2.php?nama=Reynaldi
+```
+![Step6](SS/SS6.png)
