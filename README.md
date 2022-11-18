@@ -56,4 +56,7 @@ Membuat Form Input
 Operator
 ![Step8](SS/SS8.png)<br>
 
+Kondisi IF
+![Step9](SS/SS9.png)<br>
+
 
