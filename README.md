@@ -53,4 +53,7 @@ http://localhost/lab7_php_dasar/latihan2.php?nama=Reynaldi
 Membuat Form Input
 ![Step7](SS/SS7.png)<br>
 
+Operator
+![Step8](SS/SS8.png)<br>
+
 
