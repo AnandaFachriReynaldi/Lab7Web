@@ -65,4 +65,7 @@ Kondisi Switch
 Perulangan For
 ![Step11](SS/SS11.png)<br>
 
+Perulangan While
+![Step12](SS/SS12.png)<br>
+
 
